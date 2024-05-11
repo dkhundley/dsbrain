@@ -1,0 +1,2 @@
+# DSBrain (Data Science Brain)
+This is a fun, open source project designed to leverage the power of Generative AI to gain data science insights on your data. It leans on LangChain to enable you to bring any LLM of your choice, ranging from OpenAI's API to Apple's MLX for Apple Silicon Mac users.
